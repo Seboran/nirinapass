@@ -36,7 +36,7 @@
     "@types/node": "22.8.6",
     "@typescript-eslint/parser": "8.12.2",
     "@vitejs/plugin-vue": "5.1.4",
-    "@vitest/coverage-v8": "2.1.4",
+    "@vitest/coverage-v8": "2.1.6",
     "@vue/eslint-config-prettier": "10.1.0",
     "@vue/eslint-config-typescript": "13.0.0",
     "autoprefixer": "10.4.20",
@@ -49,7 +49,7 @@
     "typescript-eslint": "8.12.2",
     "vite": "5.4.11",
     "vite-plugin-vue-devtools": "7.6.7",
-    "vitest": "2.1.4",
+    "vitest": "2.1.6",
     "vue-tsc": "2.1.10"
   }
 }
